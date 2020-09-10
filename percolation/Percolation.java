@@ -17,6 +17,7 @@
  * Note: Backwash problem can be fixed by creating a seperate WeightedQuickUnionUF object for the virtual top and bottom site (not implemented here).
  ******************************************************************************/
 
+package percolation;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {

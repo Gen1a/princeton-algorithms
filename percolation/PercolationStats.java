@@ -5,9 +5,11 @@
  * Takes two command-line arguments n and T, performs T independent computational experiments on an n-by-n grid.
  ******************************************************************************/
 
+package percolation;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 // import edu.princeton.cs.algs4.Stopwatch;
+
 
 public class PercolationStats {
     private final double[] values;
