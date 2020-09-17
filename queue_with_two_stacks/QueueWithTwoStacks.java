@@ -1,3 +1,8 @@
+/*****************************************************************************
+ * Question: Implement a queue with two stacks so that each queue operations 
+ * takes a constant amortized number of stack operations.
+ *****************************************************************************/
+
 package queue_with_two_stacks;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
